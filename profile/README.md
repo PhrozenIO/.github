@@ -1,6 +1,6 @@
 # Disclaimer
 
-🇺🇸 All source code and projects shared on this Github account by PHROZEN (SAS) are provided "as is" without warranty of any kind, either expressed or implied. The user of this code assumes all responsibility for any issues or legal liabilities that may arise from the use, misuse, or distribution of this code. The user of this code also agrees to release PHROZEN from any and all liability for any damages or losses that may result from the use, misuse, or distribution of this code.
+🇺🇸 All source code and projects shared on this Github account by PHROZEN are provided "as is" without warranty of any kind, either expressed or implied. The user of this code assumes all responsibility for any issues or legal liabilities that may arise from the use, misuse, or distribution of this code. The user of this code also agrees to release PHROZEN from any and all liability for any damages or losses that may result from the use, misuse, or distribution of this code.
 
 By using this code, the user agrees to indemnify and hold PHROZEN harmless from any and all claims, liabilities, costs, and expenses arising from the use, misuse, or distribution of this code. The user also agrees not to hold PHROZEN responsible for any errors or omissions in the code, and to take full responsibility for ensuring that the code meets the user's needs.
 
